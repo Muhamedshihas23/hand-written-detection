@@ -73,8 +73,3 @@ Images with predicted digit labels are displayed after training.
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## 🤝 Contributions
-
-Feel free to fork the repo, make changes, and submit a pull request.
